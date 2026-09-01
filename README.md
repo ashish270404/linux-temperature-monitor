@@ -106,5 +106,6 @@ sudo ./temp_monitor --drift 400
 
 ## Author
 
-**Ashish Chauhan**  
+**Ashish Singh Chauhan**
+Regd no. 2241003022
 Wipro Capstone Project
